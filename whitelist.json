@@ -1,4 +1,6 @@
-[
+{
+  "source": "https://github.com/GxPPG/gxp-growthus-whitelist/edit/main/whitelist.json",
+  "whitelist": [
     "m.sakamaki",
     "m.ueno",
     "n.satou",
@@ -108,4 +110,5 @@
     "user34",
     "user35",
     "user37"
-]
+  ]
+}
